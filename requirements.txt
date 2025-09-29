@@ -1,0 +1,27 @@
+# Markdown to Document Converter Requirements
+# Install with: pip install -r requirements.txt
+
+# Core markdown processing
+markdown2>=2.4.0
+markdown>=3.4.0
+
+# DOC (Microsoft Word) conversion
+python-docx>=0.8.11
+
+# PDF conversion
+weasyprint>=60.0
+pdfkit>=1.0.0
+reportlab>=4.0.0
+
+# Additional dependencies for pypandoc (optional)
+pypandoc>=1.11
+
+# System dependencies notes:
+# For weasyprint on Windows, you may need to install:
+# - Microsoft Visual C++ Build Tools
+# - Or install via conda: conda install -c conda-forge weasyprint
+
+# For pdfkit, you need wkhtmltopdf installed:
+# Windows: Download from https://wkhtmltopdf.org/downloads.html
+# Linux: sudo apt-get install wkhtmltopdf
+# macOS: brew install wkhtmltopdf
